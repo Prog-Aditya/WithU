@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8214906025",
+    "project_id": "withu-fbbfe",
+    "storage_bucket": "withu-fbbfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8214906025:android:9ae71a139490a252de95b8",
+        "android_client_info": {
+          "package_name": "com.example.withu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8214906025-oaiog8ohajo71er429v4sr4fsq1ev7ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.withu",
+            "certificate_hash": "0fc71df2a515dc9d07458b5b861a7934140f9401"
+          }
+        },
+        {
+          "client_id": "8214906025-jj5sts1ofoiechnsvciuik1ubl0oj0jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5iPqHQPQorUzBHD_aB8G5LNGIzlGJsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8214906025-jj5sts1ofoiechnsvciuik1ubl0oj0jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
